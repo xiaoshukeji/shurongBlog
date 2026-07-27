@@ -4,6 +4,147 @@
   
     
     <entry>
+      <title>年度总结计划</title>
+      <link href="/2026/07/28/year-summary/"/>
+      <url>/2026/07/28/year-summary/</url>
+      
+        <content type="html"><![CDATA[<p>年度总结会用来复盘学习、项目、产品判断和个人成长。</p><p>先立一个位置，等时间给出更多答案。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 年度总结 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 年度总结 </tag>
+            
+            <tag> 复盘 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>生活明朗</title>
+      <link href="/2026/07/28/life-bright/"/>
+      <url>/2026/07/28/life-bright/</url>
+      
+        <content type="html"><![CDATA[<p>生活明朗，万物可爱。</p><p>除了技术和项目，这里也会留下生活里的小观察、小灵感和阶段性的心情。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+            <tag> 记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>项目构建日志</title>
+      <link href="/2026/07/28/project-build-log/"/>
+      <url>/2026/07/28/project-build-log/</url>
+      
+        <content type="html"><![CDATA[<p>项目是学习最好的压缩包。</p><p>这里会记录小树正在做的互联网产品、技术方案、功能拆解和阶段复盘。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 项目 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 树融科技 </tag>
+            
+            <tag> 项目 </tag>
+            
+            <tag> 产品 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>AI Agent 实践笔记</title>
+      <link href="/2026/07/28/ai-agent-notes/"/>
+      <url>/2026/07/28/ai-agent-notes/</url>
+      
+        <content type="html"><![CDATA[<p>AI Agent 最有意思的地方，是它能把模型能力、工具、上下文和目标管理组合成一个可工作的系统。</p><p>这里会持续记录实验过程、踩坑经验和真正有用的产品想法。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> AI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI Agent </tag>
+            
+            <tag> 自动化 </tag>
+            
+            <tag> 工具调用 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>前端学习路线</title>
+      <link href="/2026/07/28/frontend-roadmap/"/>
+      <url>/2026/07/28/frontend-roadmap/</url>
+      
+        <content type="html"><![CDATA[<p>前端不是只会写页面，而是把信息、交互、性能和工程协作连起来。</p><p>接下来会围绕 HTML、CSS、JavaScript、Vue、React、Vite、Webpack 和真实项目复盘，逐步记录自己的学习路线。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端开发 </tag>
+            
+            <tag> JavaScript </tag>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客正式启动</title>
       <link href="/2026/07/28/hello-world/"/>
       <url>/2026/07/28/hello-world/</url>
@@ -13,7 +154,7 @@
       
       <categories>
           
-          <category> 互联网创业 </category>
+          <category> 小树 </category>
           
       </categories>
       

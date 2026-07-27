@@ -1,0 +1,247 @@
+/* Xiaoshu visual tuning for AnZhiYu */
+:root {
+  --xiaoshu-blue: #2458ff;
+  --xiaoshu-card-radius: 14px;
+}
+
+#page-header #site-name .title,
+#blog_name .title {
+  font-weight: 800;
+}
+
+#bbTimeList {
+  border-radius: var(--xiaoshu-card-radius);
+  border: 1px solid rgba(60, 88, 130, 0.12);
+  box-shadow: 0 10px 28px rgba(35, 64, 120, 0.06);
+}
+
+#home_top {
+  max-width: 1480px;
+}
+
+#home_top .swiper_container_card {
+  display: flex;
+  align-items: stretch;
+  gap: 0.65rem;
+}
+
+div#bannerGroup {
+  height: 360px;
+  width: calc(50% - 0.5rem);
+}
+
+#random-banner {
+  min-height: 280px;
+  border-radius: var(--xiaoshu-card-radius);
+  border: 1px solid rgba(60, 88, 130, 0.12);
+  background: #fff;
+  overflow: hidden;
+  box-shadow: 0 14px 42px rgba(34, 54, 96, 0.08);
+}
+
+#random-banner .banners-title {
+  left: 3rem;
+  top: 3rem;
+  z-index: 2;
+}
+
+#random-banner .banners-title-big {
+  font-size: 2.75rem;
+  line-height: 1.12;
+  font-weight: 900;
+  color: #26282c;
+}
+
+#random-banner .banners-title-small {
+  font-weight: 700;
+  color: #858b93;
+}
+
+#random-banner #skills-tags-group-all {
+  position: absolute;
+  left: 24%;
+  right: -18%;
+  bottom: -18%;
+  transform: rotate(-24deg) scale(1.08);
+  opacity: 0.98;
+}
+
+.categoryGroup {
+  height: 92px;
+  gap: 0.5rem;
+}
+
+.categoryItem {
+  border-radius: 12px;
+}
+
+a.categoryButton {
+  border-radius: 12px;
+  line-height: 92px;
+  font-size: 1.25rem;
+}
+
+.topGroup {
+  width: calc(50% - 0.5rem);
+  height: 452px;
+}
+
+.topGroup .todayCard {
+  width: 100%;
+  margin-left: 0;
+  border-radius: var(--xiaoshu-card-radius);
+  border: 1px solid rgba(60, 88, 130, 0.1);
+  background: linear-gradient(135deg, #e7fbf5, #f7f7ff 56%, #fff0f5);
+  box-shadow: 0 14px 42px rgba(34, 54, 96, 0.08);
+}
+
+.topGroup .todayCard::after {
+  box-shadow: none;
+}
+
+.topGroup .todayCard .todayCard-cover {
+  z-index: 0;
+  object-fit: cover;
+  height: 100%;
+  opacity: 1;
+}
+
+.topGroup .todayCard .todayCard-info {
+  bottom: 2.4rem;
+  left: 2.4rem;
+  color: #2aa3a5;
+}
+
+.topGroup .todayCard .todayCard-info .todayCard-title {
+  color: #2aa3a5;
+  font-size: 2rem;
+}
+
+.topGroup .todayCard .todayCard-info .todayCard-tips {
+  color: #858b93;
+  opacity: 1;
+}
+
+.topGroup .banner-button {
+  color: #eb4f7a;
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(235, 79, 122, 0.14);
+  box-shadow: 0 8px 28px rgba(235, 79, 122, 0.12);
+}
+
+#category-bar {
+  height: 56px;
+  border-radius: var(--xiaoshu-card-radius);
+  box-shadow: 0 10px 28px rgba(35, 64, 120, 0.05);
+}
+
+.catalog-list-item a {
+  border-radius: 8px;
+  font-weight: 800;
+}
+
+.catalog-list-item.select a {
+  background: var(--xiaoshu-blue);
+}
+
+#recent-posts > .recent-post-item {
+  border-radius: var(--xiaoshu-card-radius);
+  border: 1px solid rgba(60, 88, 130, 0.12);
+  box-shadow: 0 16px 46px rgba(30, 70, 160, 0.08);
+}
+
+#recent-posts > .recent-post-item .post_cover {
+  height: 245px;
+}
+
+#recent-posts > .recent-post-item .article-title {
+  font-size: 1.28rem;
+  font-weight: 900;
+}
+
+.card-widget.card-info {
+  border-radius: var(--xiaoshu-card-radius);
+  background: linear-gradient(155deg, #1144ff 0%, #244bff 58%, #2c3de8 100%);
+  min-height: 320px;
+  color: #fff;
+}
+
+.card-widget.card-info .author-info-avatar {
+  margin-top: 46px;
+}
+
+.card-widget.card-info .author-info__name,
+.card-widget.card-info .author-info__desc {
+  color: #fff;
+}
+
+.author-content-item.skills {
+  width: 100%;
+  min-height: 520px;
+  border-radius: var(--xiaoshu-card-radius);
+}
+
+.author-content-item.skills .author-content-item-tips {
+  font-size: 1rem;
+}
+
+.author-content-item.skills .author-content-item-title {
+  font-size: 3.1rem;
+  line-height: 1.15;
+  font-weight: 900;
+  color: #2b2d31;
+}
+
+.author-content-item.skills #skills-tags-group-all {
+  margin-top: 4.5rem;
+}
+
+.skills .skill-info {
+  padding: 8px 18px 8px 10px;
+  margin-right: 12px;
+  margin-top: 12px;
+  border-radius: 999px;
+}
+
+.skills .skill-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.skills .skill-icon img {
+  width: 24px;
+  height: 24px;
+}
+
+.skills .skill-name span {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 1200px) {
+  div#bannerGroup,
+  .topGroup {
+    width: auto;
+  }
+
+  #random-banner #skills-tags-group-all {
+    left: 18%;
+    right: -34%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #random-banner .banners-title {
+    left: 1.4rem;
+    top: 1.4rem;
+  }
+
+  #random-banner .banners-title-big,
+  .author-content-item.skills .author-content-item-title {
+    font-size: 2.2rem;
+  }
+
+  .author-content-item.skills {
+    min-height: 430px;
+  }
+}
