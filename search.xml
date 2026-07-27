@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>博客正式启动</title>
+      <link href="/2026/07/28/hello-world/"/>
+      <url>/2026/07/28/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>你好，我是王瀚铎。</p><p>这是我的个人博客，也是我长期记录技术与思考的地方。我关注前端开发、AI Agent、互联网产品，以及创业实践。作为一名高中学生和树融科技创始人，我希望把学习、实践、复盘和判断都沉淀下来。</p><p>未来这里会持续更新几类内容：</p><ul><li>前端开发：工程化、交互体验、页面性能和项目实践。</li><li>AI Agent：智能体产品、工具调用、自动化工作流和真实应用。</li><li>互联网观察：产品、技术趋势和创业过程中的思考。</li><li>树融科技：项目进展、团队想法和阶段复盘。</li></ul><p>先把站点搭起来，后面慢慢把内容填满。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 互联网创业 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 前端开发 </tag>
+            
+            <tag> AI Agent </tag>
+            
+            <tag> 树融科技 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
